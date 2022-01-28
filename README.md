@@ -1,7 +1,6 @@
 # OldProgrammingCampChallenges
  I attended a programming camp that had a challenge packet at the end, time to see if 4 years later I've gotten better.  
- I think this challenge is good for new programmers, reguardless of the language they're working in this is a good right  
- of passage to show you know the basics.
+ I think this challenge is good for new programmers, reguardless of the language they're working in this is a good right  of passage to show you know the basics.
 
 ## The challenge reads as follows:
 ### Bob Jones University Computer Science Camp Programming Contest 2018
